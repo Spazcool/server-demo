@@ -1,3 +1,2 @@
 rango
 db.sqlite3
-requirements.txt
